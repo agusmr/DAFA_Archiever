@@ -1,0 +1,16 @@
+FrmUtama = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ModDesain = 0, 0, 0, 0, C
+ModKumpul = 0, 0, 0, 0, C
+ModPacked = 0, 0, 0, 0, C
+ModReadFile = 0, 0, 0, 0, C
+ModZlib = 0, 0, 0, 0, C
+ModCrc32 = 0, 0, 0, 0, C
+ModFungsi = 0, 0, 0, 0, C
+FrmPilih = 0, 0, 0, 0, C, 66, 87, 652, 535, C
+frmProses = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ModIcon = 0, 0, 0, 0, C
+ModTemp = 0, 0, 0, 0, C
+frmPass = 0, 0, 0, 0, C, 44, 58, 630, 506, C
+ModRC4 = 0, 0, 0, 0, C
+FrmDiagnosa = 0, 0, 0, 0, C, 22, 29, 608, 477, C
+AES = 0, 0, 0, 0, C

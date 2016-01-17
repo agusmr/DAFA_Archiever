@@ -1,0 +1,14 @@
+FrmUtama = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsStoreDc = 0, 0, 0, 0, C
+ModKumpul = 0, 0, 0, 0, C
+ModPacked = 0, 0, 0, 0, C
+ModReadFile = 0, 0, 0, 0, C
+ModZlib = 0, 0, 0, 0, C
+ModCrc32 = 0, 0, 0, 0, C
+ModFungsi = 0, 0, 0, 0, C
+FrmPilih = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmProses = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ModIcon = 0, 0, 0, 0, C
+ModTemp = 0, 0, 0, 0, C
+frmPass = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ModRC4 = 0, 0, 0, 0, C

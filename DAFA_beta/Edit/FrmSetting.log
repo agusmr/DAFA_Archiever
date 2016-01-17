@@ -1,0 +1,11 @@
+Line 23: Class vbComCtl.ucFrame of control ucFrame1 was not a loaded control class.
+Line 33: Class vbComCtl.ucFrame of control ucFrame2 was not a loaded control class.
+Line 90: Class vbComCtl.ucTabStrip of control ucTabStrip1 was not a loaded control class.
+Line 28: The property name _ExtentX in ucFrame1 is invalid.
+Line 29: The property name _ExtentY in ucFrame1 is invalid.
+Line 32: The property name BColor in ucFrame1 is invalid.
+Line 38: The property name _ExtentX in ucFrame2 is invalid.
+Line 39: The property name _ExtentY in ucFrame2 is invalid.
+Line 42: The property name BColor in ucFrame2 is invalid.
+Line 96: The property name _ExtentX in ucTabStrip1 is invalid.
+Line 97: The property name _ExtentY in ucTabStrip1 is invalid.
